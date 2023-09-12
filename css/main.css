@@ -594,7 +594,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
+	color: #5f00cc;
 	border-bottom: 1px solid #FF0077;
 }
 label, legend {
@@ -1335,7 +1335,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #cc005f;
+	color: #5f00cc;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1382,7 +1382,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #5f00cc;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1414,7 +1414,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #cc005f;
+	color: #5f00cc;
 }
 
 /**
@@ -1492,6 +1492,7 @@ header .logo a {
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
+
 #about .section-intro {
 	margin-bottom: 3rem;
 }
@@ -1501,16 +1502,17 @@ header .logo a {
 	margin-right: -30px;
 	margin-left: -30px;
 }
+
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
+	height: 15rem;
+	width: 15rem;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: left;
-	padding-left: 13rem;
+	padding-left: 18rem;
 }
 
 .about-content {
@@ -1575,8 +1577,8 @@ header .logo a {
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 7.8rem;
-		width: 7.8rem;
+		height: 15rem;
+		width: 15rem;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
@@ -1601,8 +1603,8 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 15rem;
+		width: 15rem;
 		float: none;
 		display: inline-block;
 	}
@@ -1954,7 +1956,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #cc005f;
+	background: #5f00cc;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2364,7 +2366,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #cc005f;
+	background: #5f00cc;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2576,7 +2578,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #cc005f;
+	background: #5f00cc;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
