@@ -41,7 +41,7 @@
 
 :root {
 	--primary-color: #23a98e;
-	--primary-color-accent: #00d5bd;
+	--primary-color-accent: #19bba8;
 	--primary-color-accent-accent: #039679;
 }
 
@@ -1298,7 +1298,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/intro-bg.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
